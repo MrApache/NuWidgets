@@ -8,7 +8,7 @@ stdenv.mkDerivation {
     version = "1.0.0";
 
     src = {
-        url = "*.tar.gz";
+        url = "https://github.com/MrApache/NuWidgets/archive/refs/tags/Test.tar.gz";
         sha256 = "";
     };
 }
